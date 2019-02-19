@@ -1,2 +1,14 @@
 sdf
-this is a new line
+
+/opt/elcat/scripts/build.sh
+
+To run the .sh file:
+sh build.sh
+
+**Clone remote repo***
+
+git clone [repo]
+
+**Directory where project files are rooted -- /opt/elcat
+
+1601916019
